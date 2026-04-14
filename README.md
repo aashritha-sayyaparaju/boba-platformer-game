@@ -1,5 +1,5 @@
 # cyoa-game
-🧋BOBA PLATFORMER GAME!🧋
+BOBA PLATFORMER GAME
 A fun 2D platformer game where you play as a Thai tea character collecting tapioca pearls!
 
 Game Overview:
